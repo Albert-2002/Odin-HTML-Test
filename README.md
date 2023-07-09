@@ -1,3 +1,3 @@
-#Learning HTML <br />
-For <br />
+# Learning HTML <br />
+For: <br />
 The Odin Project
